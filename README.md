@@ -87,10 +87,3 @@ $BaseUrl = "https://mail.konnash.net"
 ## 📜 License
 
 This script is provided as-is under the MIT License. Use at your own risk.
-
----
-
-## ✍️ Author
-
-- [Your Name or GitHub Username](https://github.com/yourusername)
-- Contact: your@email.com
